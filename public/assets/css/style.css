@@ -19722,3 +19722,7 @@ body.white-version .rn-btn-ulderline {
 .justify-content-center{
   justify-content: center;
 }
+
+.color-primary{
+  color: var(--color-primary);
+}
