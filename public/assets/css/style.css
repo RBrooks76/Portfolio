@@ -19726,3 +19726,7 @@ body.white-version .rn-btn-ulderline {
 .color-primary{
   color: var(--color-primary);
 }
+
+.rn-nav-list .nav-item {
+  flex-basis: 48%;
+}
